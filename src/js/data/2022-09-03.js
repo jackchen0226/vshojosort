@@ -138,7 +138,7 @@ dataSet[dataSetVersion].characterData = [
     img: "jtIHsZn.jpg",
     opts : {
       affil: ['indie'],
-      lass: true
+      lad: true
     }
   },
   {
